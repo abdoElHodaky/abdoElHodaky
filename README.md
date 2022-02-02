@@ -2,7 +2,7 @@
 
 <!<h1 align="center">Hi 👋, I'm abdoElHodaky</h1>
 
-<h3 align="center">A passionate BackEnd developer from Egypt</h3>
+<h3 align="center">A passionate BackEnd Developer/Data engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelhodaky" /> </p>
 
@@ -31,12 +31,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoelhodaky&" alt="abdoelhodaky" /></p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
 -->
