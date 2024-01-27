@@ -2,15 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm abdoElHodaky</h1>
 
-<h3 align="center">A passionate BackEnd Developer/Data engineer from Egypt</h3>
+<h3 align="center">A passionate BackEnd Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelhodaky" /> </p>
 
-- 🌱 I’m currently learning **Julia,ML**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **abdo_elhidaky@yahoo.com**
 
-- 📄 Know about my experiences [https://GitHub.com/abdoElHodaky/about](https://GitHub.com/abdoElHodaky/about)
+- 📄 Know about my experiences [Vist my LinkedIn](
+  https://linkedin.com/in/abdelrhman-elhodaky-9521bb220)
 
 <h3 align="left">Connect with me:</h3>
 
