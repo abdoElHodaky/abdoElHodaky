@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdo_elhidaky@yahoo.com**
 
-- 📄 Know about my experiences [Vist my LinkedIn](
+- 📄 Know about my experiences [Vist](
   https://linkedin.com/in/abdelrhman-elhodaky-9521bb220)
 
 <h3 align="left">Connect with me:</h3>
