@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 📫 How to reach me **abdo_elhodaky@yahoo.com,abdo_elhodaky@outlook.com**,(wa.me/+201141894373)
+- 📫 How to reach me **abdo_elhodaky@yahoo.com,abdo_elhodaky@outlook.com**,(https://wa.me/+201141894373)
 
 - 📄 Know about my experiences [Vist](
   https://linkedin.com/in/abdelrhman-elhodaky-9521bb220)
