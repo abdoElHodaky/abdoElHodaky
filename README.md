@@ -45,7 +45,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="60"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoelhodaky&show_icons=true&locale=en&layout=compact" alt="abdoelhodaky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoelhodaky&show_icons=true&locale=en&layout=compact&langs_count=14" alt="abdoelhodaky" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoelhodaky&show_icons=true&locale=en" alt="abdoelhodaky" /></p>
 
