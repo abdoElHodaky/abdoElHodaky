@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate BackEnd Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=efe567&style=for-the-badge" alt="abdoelhodaky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=efe56d&style=for-the-badge" alt="abdoelhodaky" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
@@ -46,9 +46,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoelhodaky&show_icons=true&locale=en&layout=compact&langs_count=14" alt="abdoelhodaky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoelhodaky&show_icons=true&locale=en&layout=compact&langs_count=14&theme=gruvbox" alt="abdoelhodaky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoelhodaky&show_icons=true&locale=en" alt="abdoelhodaky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoelhodaky&show_icons=true&locale=en&theme=gruvbox " alt="abdoelhodaky" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=abdoElHodaky&theme=gruvbox&border_radius=45&stroke=D222EF&background=15%2C1999EB%2C1C47EB&sideLabels=C122EB&sideNums=EBE454&fire=EB5454" alt="GitHub Streak" /></p>
 Here are some ideas to get you started:
