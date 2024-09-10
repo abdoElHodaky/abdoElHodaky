@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm abdoElHodaky</h1>
 
-<h3 align="center">A passionate BackEnd Developer from Egypt</h3>
+<h4 align="center">A passionate BackEnd Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=ef54de&style=for-the-badge" alt="abdoelhodaky" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=deafe&style=for-the-badge" alt="abdoelhodaky" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
