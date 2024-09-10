@@ -46,7 +46,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoelhodaky&show_icons=true&locale=en&layout=compact&langs_count=14&theme=gruvbox&border_radius=5&stroke=D222EF&background=15%2C1999EB%2C1C47EB" alt="abdoelhodaky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoelhodaky&show_icons=true&locale=en&layout=compact&langs_count=14&theme=vuedark&border_radius=5&stroke=D222EF&background=15%2C1999EB%2C1C47EB" alt="abdoelhodaky" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoelhodaky&show_icons=true&locale=en&theme=dark&border_radius=15&stroke=D222EF&background=15%2C1999EB%2C1C47EB" alt="abdoelhodaky" /></p>
 
