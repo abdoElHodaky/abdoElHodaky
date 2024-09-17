@@ -50,7 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoelhodaky&show_icons=true&locale=en&theme=dark&border_radius=15&stroke=D222EF&background=15%2C1999EB%2C1C47EB" alt="abdoelhodaky" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdoelhodaky&theme=gruvbox&border_radius=45&stroke=D222EF&background=15%2C1999EB%2C1C47EB&sideLabels=C122EB&sideNums=EBE454&fire=EB5454" alt="GitHub Streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=abdoelhodaky&theme=gruvbox&border_radius=45&stroke=D222EF&background=15%2C1999EB%2C1C47EB&sideLabels=C122EB&sideNums=EBE454&fire=EB5454" alt="GitHub Streak" /></p>
 Here are some ideas to get you started:
 
 
