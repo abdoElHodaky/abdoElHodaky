@@ -32,7 +32,7 @@
 <a href="https://khamsat.com/programming/api-integrations/2991204-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D9%87-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%88%D8%A7%D8%AC%D9%87%D9%87-%D9%86%D8%B8%D9%85-%D8%AE%D9%84%D9%81%D9%8A%D9%87">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLv2YnnDlS8c6LwlggdE-TsZN6XiAm7pFVbl-iki-KGf7HpaKMUpA9dG9D&s=10" width="40" height="40" />
 </a>
-  <a href="https://mostaql.com/u/abdoarh_mostaql"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzgVHhmd8uao9yFGqq5buqtOg8bhK2nABLQ&s" height="50" width="70" ></a>
+  <a href="https://mostaql.com/u/abdoarh_mostaql"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzgVHhmd8uao9yFGqq5buqtOg8bhK2nABLQ&s" height="50" width="70" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
