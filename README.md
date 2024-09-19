@@ -25,7 +25,7 @@
 </a>
 
 </p>
-<h3>Order my service:</h3>
+<h3>Request my service:</h3>
 <p align="left"><a href="https://www.forlanso.com/en/el-18/services/ttoyr-moakaa-tgaryh-ttoyr-oaghh-nthm-khlfyh/buy?directBuy=true">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqJxUgO5l805OFux8nW027-MfRnpH4Jdugg&s" width="40" height="40" />
 </a></p>
