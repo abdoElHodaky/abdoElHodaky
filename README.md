@@ -4,7 +4,7 @@
 
 <h4 align="center">A passionate BackEnd Developer from Egypt</h3>
 
-<p align="left"> <a href="https://u8views.com/github/abdoElHodaky"><img src="https://u8views.com/api/v1/github/profiles/47593167/views/day-week-month-total-count.svg"></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelhodaky&label=Profile%20views&color=ffccbb&style=for-the-badge" alt="abdoelhodaky" /></p>
 
 - 🌱 I’m currently learning **Blockchain**
 
