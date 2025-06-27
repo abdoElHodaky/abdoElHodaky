@@ -38,17 +38,14 @@
 
 
 
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4)
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4&fontAlign=1)
 
 <!-- Featured Projects Section -->
 <table>
 <tr>
 <td width="100%">
 <h3 align="center">Logistics management system</h3>
-<div align="center">  
-<a href="#" target="_blank">
-<img src="" width="50%" alt="Logistics management system"/>
-</a>
+<div align="center">
 <br>
 <br>
 <p>
