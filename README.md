@@ -43,7 +43,7 @@
 <!-- Featured Projects Section -->
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Logistics management system</h3>
 <div align="center">  
 <a href="#" target="_blank">
@@ -59,14 +59,8 @@
 <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
-<p align="left">
-• <br>
-• <br>
-• Technical highlight
-</p>
 </div>
 </td>
-
 </tr>
 </table>
 
@@ -84,7 +78,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdoElHodaky&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
----
+<!---
 [![](https://visitcount.itsvg.in/api?id=abdoElHodaky&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
