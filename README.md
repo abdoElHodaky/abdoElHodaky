@@ -46,7 +46,7 @@ I'm **AbdElrhman ElHodaky**, a Full Stack Backend Engineer & DevOps Practitioner
 _This is my public learning journal. Every entry is a step forward._
 
 <div align="center">
-  <img src="./assets/growth-tree.svg" alt="Growth Tree" width="600" />
+  <img src="/assets/growth-tree.svg" alt="Growth Tree" width="600" />
 </div>
 
 > 💡 _The tree above is a custom SVG. To generate it, run the Python script below and commit the output to `assets/growth-tree.svg`._
