@@ -63,7 +63,7 @@ _This is my public learning journal. Every entry is a step forward._
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdoElHodaky&theme=tokyonight&hide_border=true&fire=FF5722&currStreakLabel=36BCF7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?user=abdoElHodaky&theme=tokyonight&hide_border=true&fire=FF5722&currStreakLabel=36BCF7)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>
 
@@ -128,13 +128,12 @@ _This is my public learning journal. Every entry is a step forward._
 
 ## 📊 GitHub Analytics
 
-<!-- Self-hosted stats cards - generated via GitHub Actions every 6 hours -->
 <div align="center">
   <a href="https://github.com/abdoElHodaky">
-    <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/main/assets/github-stats.svg" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=abdoElHodaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/abdoElHodaky">
-    <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/main/assets/top-langs.svg" alt="Top Languages" width="400" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abdoElHodaky&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
 
