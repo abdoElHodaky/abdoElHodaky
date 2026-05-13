@@ -45,26 +45,11 @@ I'm **AbdElrhman ElHodaky**, a Full Stack Backend Engineer & DevOps Practitioner
 
 _This is my public learning journal. Every entry is a step forward._
 
-```
-                     🚀 SKYWARD
-                    [2026] Blockchain
-                         │
-                    🌲 CANOPY
-               [2025] Kubernetes · FluxCD
-                    · Terraform · SaaS
-                         │
-                   🌳 BRANCHES
-            [2023-24] NestJS · gRPC · Docker
-                 · CI/CD · Microservices
-                         │
-                    🌿 STEM
-           [2020-22] Laravel · Express.js
-               · REST APIs · MariaDB
-                         │
-                    🌱 ROOTS
-         [2019] BS CompSci @ Mansoura
-            GPA 3.77 · Best Poster Award
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/main/assets/growth-tree.svg" alt="Growth Tree" width="600" />
+</div>
+
+> 💡 _The tree above is a custom SVG. To generate it, run the Python script below and commit the output to `assets/growth-tree.svg`._
 
 | Season | What I Grew | Roots Deepened |
 |--------|-------------|----------------|
@@ -79,14 +64,16 @@ _This is my public learning journal. Every entry is a step forward._
 ## 🔥 Live Growth Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoElHodaky&theme=tokyonight&hide_border=true&fire=FF5722&currStreakLabel=36BCF7" alt="GitHub Streak" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdoElHodaky&theme=tokyonight&hide_border=true&fire=FF5722&currStreakLabel=36BCF7)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoElHodaky&theme=tokyo-night&hide_border=true&area=true&point=36BCF7&line=36BCF7" alt="Activity Graph" />
-</div>
 
-> 💡 _To enable the contribution snake animation, add [this workflow](https://github.com/Platane/snk#readme) to your profile repo._
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoElHodaky&theme=tokyo-night&hide_border=true&area=true&point=36BCF7&line=36BCF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -137,15 +124,23 @@ _This is my public learning journal. Every entry is a step forward._
 | **[Multi-Merchant Marketplace](https://github.com/abdoElHodaky/nodeJsEcommerce)** | Express.js, EJS, MongoDB | Dynamic multi-vendor e-commerce with diverse vendor operations |
 | **[Enterprise Microservices](https://github.com/abdoElHodaky)** | Cloud-native, Microservices | BA/SA-driven enterprise transformation at scale |
 
-> 🔗 _Explore all **71+ repositories** on my [GitHub profile](https://github.com/abdoElHodaky?tab=repositories)_
+> 🔗 *Explore all **71+ repositories** on my [GitHub profile](https://github.com/abdoElHodaky?tab=repositories)*
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdoElHodaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoElHodaky&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
+  <a href="https://github.com/abdoElHodaky">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdoElHodaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/abdoElHodaky">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoElHodaky&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
