@@ -63,7 +63,7 @@ _This is my public learning journal. Every entry is a step forward._
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak? username=abdoElHodaky&theme=tokyonight&hide_border=true&fire=FF5722&currStreakLabel=36BCF7)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=abdoElHodaky&theme=tokyonight&hide_border=true&fire=FF5722&currStreakLabel=36BCF7)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>
 
