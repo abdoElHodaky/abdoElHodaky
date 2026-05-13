@@ -128,16 +128,15 @@ _This is my public learning journal. Every entry is a step forward._
 
 ## 📊 GitHub Analytics
 
+<!-- Self-hosted stats cards - generated via GitHub Actions every 6 hours -->
 <div align="center">
   <a href="https://github.com/abdoElHodaky">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdoElHodaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/main/assets/github-stats.svg" alt="GitHub Stats" width="400" />
   </a>
   <a href="https://github.com/abdoElHodaky">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoElHodaky&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/main/assets/top-langs.svg" alt="Top Languages" width="400" />
   </a>
 </div>
-
-> ⚠️ *If stats don't load, it's due to Vercel rate limits. They auto-recover within an hour. For 100% uptime, [self-host via GitHub Actions](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abdoElHodaky/abdoElHodaky/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
