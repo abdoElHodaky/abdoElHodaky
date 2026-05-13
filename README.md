@@ -122,7 +122,6 @@ _This is my public learning journal. Every entry is a step forward._
 | **[Multi-Merchant Marketplace](https://github.com/abdoElHodaky/nodeJsEcommerce)** | Express.js, EJS, MongoDB | Dynamic multi-vendor e-commerce with diverse vendor operations |
 | **[Enterprise Microservices](https://github.com/abdoElHodaky)** | Cloud-native, Microservices | BA/SA-driven enterprise transformation at scale |
 
-> 🔗 *Explore all **71+ repositories** on my [GitHub profile](https://github.com/abdoElHodaky?tab=repositories)*
 
 ---
 
