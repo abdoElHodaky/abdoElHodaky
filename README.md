@@ -174,16 +174,16 @@ _This is my public learning journal. Every entry is a step forward._
 I am currently **open for opportunities** in:
 - 🏢 **Backend Engineering** roles (PHP/Laravel, Node.js, NestJS)
 - ⚙️ **DevOps / Platform Engineering** contracts
-- 🌍 **Freelance projects** via [Mostaql](https://mostaql.com) & [Khamsat](https://khamsat.com)
+- 🌍 **Freelance projects** via [Mostaql](https://mostaql.com/u/abdoarh_mostaql) & [Khamsat](https://khamsat.com/user/abdoelhodaky/services)
 - 🧠 **Technical consulting** on system architecture & cloud migration
 
 | Channel | Link |
 |---------|------|
 | 📧 **Email** | [abdo_elhodaky@yahoo.com](mailto:abdo_elhodaky@yahoo.com) · [abdo_elhodaky@outlook.com](mailto:abdo_elhodaky@outlook.com) |
 | 📱 **WhatsApp** | [+20 114 189 4373](https://wa.me/+201141894373) |
-| 🐦 **X / Twitter** | [@ARHodaky](https://x.com/ARHodaky) |
+| 💼 **LinkedIn** | [@Abdelrhman](https://www.linkedin.com/in/abdelrhman-elhodaky-9521bb220) |
 | 📄 **Resume** | [hello.cv/abdoelhodaky](https://hello.cv/abdoelhodaky) |
-| 🛒 **Freelance** | [Mostaql](https://mostaql.com) · [Khamsat](https://khamsat.com) |
+| 🛒 **Freelance** | via [Mostaql](https://mostaql.com/u/abdoarh_mostaql) & [Khamsat](https://khamsat.com/user/abdoelhodaky/services) |
 
 ---
 
