@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=🌱+Growing+one+commit+at+a+time;☁️+Shipping+cloud-native+systems; 💼+Active+for+Opportunities;📚+Passionate+about+knowledge+growth;🚀+Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=🌱+Growing+one+commit+at+a+time;☁️+Shipping+cloud-native+systems;💼+Active+for+Opportunities;📚+Passionate+about+knowledge+growth;🚀+Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Last%20Updated-13--May--2026-36BCF7?style=flat&logo=github&logoColor=white" alt="last updated" />
   <img src="https://img.shields.io/badge/Status-Growing%20🌱-4CAF50?style=flat" alt="status" />
   <img src="https://img.shields.io/badge/Repos-71+-FF9800?style=flat&logo=github&logoColor=white" alt="repos" />
-  <img src="https://img.shields.io/badge/ready-To-Hire-9C27B0?style=flat" alt="active for opportunity" />
+  <img src="https://img.shields.io/badge/Open--to--work-Active%20-9C27B0?style=flat" alt="active-work">
 </p>
 
 <p align="center">
