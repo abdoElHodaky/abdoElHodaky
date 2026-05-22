@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdoElHodaky&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Last%20Updated-13--May--2026-36BCF7?style=flat&logo=github&logoColor=white" alt="last updated" />
+  <!--img src="https://img.shields.io/badge/Last%20Updated-13--May--2026-36BCF7?style=flat&logo=github&logoColor=white" alt="last updated" />-->
   <img src="https://img.shields.io/badge/Status-Growing%20🌱-4CAF50?style=flat" alt="status" />
   <img src="https://img.shields.io/badge/Repos-71+-FF9800?style=flat&logo=github&logoColor=white" alt="repos" />
   <img src="https://img.shields.io/badge/Open--to--work-Active%20-9C27B0?style=flat" alt="active-work">
@@ -132,7 +132,7 @@ _This is my public learning journal. Every entry is a step forward._
     <img src="https://github-readme-stats-fast.vercel.app/api?username=abdoElHodaky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/abdoElHodaky">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdoElHodaky&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-stats-card-generator.vercel.app/api/svg?username=abdoElHodaky&type=languages&theme=aura&chart=donut" alt="Top Languages" />
   </a>
 </div>
 
