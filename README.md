@@ -15,17 +15,14 @@
   <img src="https://img.shields.io/badge/Repos-71+-FF9800?style=flat&logo=github&logoColor=white" alt="repos" />
   <img src="https://img.shields.io/badge/Open--to--work-Active%20-9C27B0?style=flat" alt="active-work">
 </p>
-
 <p align="center">
   <a href="mailto:abdo_elhodaky@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white" /></a>
   <a href="mailto:abdo_elhodaky@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://x.com/ARHodaky"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://hello.cv/abdoelhodaky"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
   <a href="https://wa.me/+201141894373"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<a href="https://abdoElHodaky.github.io/bsnsscard-studio/"><img src="https://img.shields.io/badge/Business%20Card-View%20%26%20Scan-c9a96e?style=for-the-badge" /></a>
+<a href="https://abdoElHodaky.github.io/bsnsscard-studio/"><img src="https://img.shields.io/badge/Busnss%20Card-View%20%26%20Scan-c9a96e?style=for-the-badge" /></a>
 </p>
----
 
 ## 🌿 Growth Manifesto
 
