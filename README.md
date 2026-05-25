@@ -22,9 +22,8 @@
   <a href="https://x.com/ARHodaky"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://hello.cv/abdoelhodaky"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
   <a href="https://wa.me/+201141894373"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  [![Card Studio](https://img.shields.io/badge/Business%20Card-View%20%26%20Scan-c9a96e?style=for-the-badge)](https://abdoElHodaky.github.io/bsnsscard-studio/)
 </p>
-
+ [![Card Studio](https://img.shields.io/badge/Business%20Card-View%20%26%20Scan-c9a96e?style=for-the-badge)](https://abdoElHodaky.github.io/bsnsscard-studio/)
 ---
 
 ## 🌿 Growth Manifesto
